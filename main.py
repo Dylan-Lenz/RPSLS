@@ -11,5 +11,5 @@ AS A PLAYER...
 (10pts): The correct player to win a given round based on the choices made by each player.
 (10pts): The game of RPSLS to be at minimum a “best of three” to decide a winner.  
 (10pts): The option of a single player (human vs AI) or a multiplayer (human vs human) game.  
-{2Commit}
+{3Commit}
  """

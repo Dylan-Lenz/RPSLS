@@ -7,4 +7,4 @@ class Player:
         self.name = name
         self.score = 0
         self.gestures = []
-        self.chosen_gesture = 'Rock'
+        self.set_gesture = 'Rock'
