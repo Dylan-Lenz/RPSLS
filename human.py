@@ -14,4 +14,4 @@ class Human(Player):
         self.set_gesture = user_input
         gestures = ['Rock', 'Paper','Scissors', 'Lizard', 'Spock']
         sleep(1)
-        print(f'{self.name} has chosen to throw {gestures[int(self.set_gesture)]} /n')
+        print(f'{self.name} has chosen to throw {gestures[int(self.set_gesture)]} \n')

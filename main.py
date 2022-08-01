@@ -1,3 +1,9 @@
+from game import Game
+
+G1 = Game()
+print(G1.set_player())
+
+
 """ 
 AS A DEVELOPER...
 (5pts):  Make at least 10 commits with descriptive messages. 
@@ -11,5 +17,5 @@ AS A PLAYER...
 (10pts): The correct player to win a given round based on the choices made by each player.
 (10pts): The game of RPSLS to be at minimum a “best of three” to decide a winner.  
 (10pts): The option of a single player (human vs AI) or a multiplayer (human vs human) game.  
-{7Commit}
+{8Commit}
  """

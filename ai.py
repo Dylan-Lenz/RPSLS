@@ -13,4 +13,4 @@ class AI(Player):
         self.set_gesture = str(random.randint(0,4))
         gestures = ['Rock', 'Paper','Scissors', 'Lizard', 'Spock']
         sleep(1)
-        print(f'{self.name} has chosen to throw {gestures[int(self.set_gesture)]}')
+        print(f'{self.name} has chosen to throw {gestures[int(self.set_gesture)]} \n')
