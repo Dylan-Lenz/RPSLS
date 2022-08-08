@@ -1,7 +1,6 @@
 from human import Human
 from time import sleep
 from ai import AI
-from player import Player
 
 class Game():
 
